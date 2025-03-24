@@ -1,3 +1,4 @@
+
 User Registration 
  POST http://127.0.0.1:8000/api/auth/register/
 
@@ -6,4 +7,3 @@ User Login
 
 Fetch User Info
  GET http://127.0.0.1:8000/api/auth/user/
-
